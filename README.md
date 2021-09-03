@@ -1,0 +1,3 @@
+# Jekyll blog on Github Pages
+
+Trying to see if I can get Jekyll to run on GitHub pages. See the implementation [here](https://maxarvid.github.io/blog_test/), wihtout any content. I ran into trouble installing Jekyll on my machine, see the issue and solution [here](https://github.com/CraftAcademy/CraftOverflow/issues/62). I'm still having trouble running `jekyll serve` or `bundle exec jekyll serve`, that will be the next thing on the person to-do list.
